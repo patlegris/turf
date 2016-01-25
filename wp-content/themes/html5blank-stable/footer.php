@@ -1,14 +1,5 @@
 			<!-- footer -->
 			<footer class="footer" role="contentinfo">
-				<!-- logo -->
-				<div class="logo">
-					<a href="<?php echo home_url(); ?>">
-						<!--svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
-						<img src="<?php echo home_url(); ?>/wp-content/uploads/Lachez_les_chevaux.png" alt="Logo" class="logo-img">
-					</a>
-				</div>
-				<!-- /logo -->
-
 
 
 			</footer>

@@ -111,6 +111,11 @@ input:focus {
 /* nav */
 .nav menu ul li a {
     color: #737373;
+    /*list-style-type: none!important;*/
+}
+
+li {
+    list-style-type: none!important;
 }
 
 .nav {
@@ -118,6 +123,15 @@ input:focus {
     line-height: 50px;
     text-align: right;
     float: right;
+    }
+
+/* Encadré de la Homepage */
+.CadreHome {
+    max-width: 680px;
+    width: 95%;
+    max-height: 300px;
+    height: 95%;
+    border: 1px dashed #737373;
 }
 
 /* sidebar */
@@ -163,14 +177,19 @@ h2 {
 }
 
 h3 {
-    font: 700 20px/1 'Roboto Slab', Roboto, serif;
+    font: 600 30px/1 'Roboto Slab', Roboto, serif;
+    line-height: 35px;
+    margin-top: 0;
     color: #7a0c32;
 }
 
 h4 {
-
 }
 
+.enumRed {
+    font: 600 45px/1 'Roboto Slab', Roboto, serif;
+    /*list-style-type: none!important;*/
+}
 @font-face {
     font-family: 'Font-Name';
     src: url('fonts/font-name.eot');

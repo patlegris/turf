@@ -23,14 +23,22 @@
 
 <main role="main">
     <section>
-        <h2>Comment faire pour l’aider ?</h2>
+        <h3>Comment faire pour l’aider ?</h3>
 
         <p>Rien de plus simple ! Même si vous êtes totalement ignorant sur la<br>
             chose comme Oscar, voici comment vous pouvez l’aider :</p>
 
         <!--Encadré-->
-        <div class="cadre">
-            1
+        <div class="CadreHome">
+            <ul>
+                <li><a class="enumRed">1</a><p>Repérez les chevaux qui vous plaisent le plus (selon leur côte, selon les<br>
+                        pronostics, selon l’originalité de leur nom…). Cette semaine nous avons une<br>
+                        préférence pour le 14 “Va Et Vient” et le 3 “Uvevering Du Gite”, et vous ?</p></li>
+                <li><a class="enumRed">2</a></li>
+                <li><a class="enumRed">3</a></li>
+
+            </ul>
+
             <p>Repérez les chevaux qui vous plaisent le plus (selon leur côte, selon les<br>
                 pronostics, selon l’originalité de leur nom…). Cette semaine nous avons une<br>
                 préférence pour le 14 “Va Et Vient” et le 3 “Uvevering Du Gite”, et vous ?</p>
@@ -49,7 +57,17 @@
     </section>
     <!-- /section -->
 </main>
-</div
+
+<!-- logo -->
+<div class="logo">
+    <a href="<?php echo home_url(); ?>">
+        <!--svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
+        <img src="<?php echo home_url(); ?>/wp-content/uploads/Lachez_les_chevaux.png" alt="Logo" class="logo-img">
+    </a>
+</div>
+<!-- /logo -->
+
+</div>
 <?php //get_sidebar(); ?>
 
 <?php get_footer(); ?>
