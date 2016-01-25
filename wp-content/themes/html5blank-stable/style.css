@@ -37,7 +37,6 @@ body {
     background-color: #7a0c32;
 }
 
-
 /* clear */
 .clear:before,
 .clear:after {
@@ -102,7 +101,7 @@ input:focus {
 
 /* logo */
 .logo {
-
+    margin: 60px 0 60px 0;
 }
 
 .logo-img {
@@ -150,6 +149,7 @@ h1 {
 h2 {
     font: 700 30px/1 'Roboto Slab', Roboto, serif;
     line-height: 35px;
+    margin-top: 0;
 }
 
 h3 {
@@ -160,7 +160,6 @@ h3 {
 h4 {
 
 }
-
 
 @font-face {
     font-family: 'Font-Name';

@@ -4,37 +4,40 @@
     <!-- section -->
     <section>
 
-        <h1><?php the_title(); ?></h1>
+        <h2>Oscar a pris la résolution de jouer</br>
+        aux courses tous les premiers jeudis</br>
+        de chaque mois !</h2>
 
-        <?php if (have_posts()): while (have_posts()) : the_post(); ?>
+        Mais comme il ne s'y connait pas trop il a besoin de VOUS
+        pour faire ses paris mensuels au Quinté+ de Vincennes.
 
-            <!-- article -->
-            <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 
-                <?php the_content(); ?>
 
-                <?php comments_template( '', true ); // Remove if you don't want comments ?>
+        Comment faire pour l’aider ?
 
-                <br class="clear">
+        Rien de plus simple ! Même si vous êtes totalement ignorant sur la
+        chose comme Oscar, voici comment vous pouvez l’aider :
 
-                <?php edit_post_link(); ?>
+        1
 
-            </article>
-            <!-- /article -->
+        Repérez les chevaux qui vous plaisent le plus (selon leur côte, selon les
+        pronostics, selon l’originalité de leur nom…). Cette semaine nous avons une
+        préférence pour le 14 “Va Et Vient” et le 3 “Uvevering Du Gite”, et vous ?
 
-        <?php endwhile; ?>
+        2
 
-        <?php else: ?>
+        Indiquez-nous en commentaire votre sélection.
+        Oscar choisira les chevaux les plus populaires.
 
-            <!-- article -->
-            <article>
+        3
 
-                <h2><?php _e( 'Sorry, nothing to display.', 'html5blank' ); ?></h2>
+        Partagez ce post afin que vos proches nous aident eux aussi à gagner !
+        Dans un an, nous organiserons alors une super soirée avec tous ceux qui
+        nous auront aidé dans nos paris PMU, avec les gains remportés sur les 12
+        courses.
 
-            </article>
-            <!-- /article -->
+        Alors, prêts à lâcher les chevaux ??
 
-        <?php endif; ?>
 
     </section>
     <!-- /section -->
