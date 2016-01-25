@@ -32,9 +32,10 @@ html {
 }
 
 body {
-    font: 300 20px/1 'Droid Sans', Droid, sans-serif;
-    line-height: 30px;
+    font: 300 19px/1 'Droid Sans', Droid, sans-serif;
+    line-height: 25px;
     background-color: #7a0c32;
+    margin: 0 0 0 0;
 }
 
 /* clear */
@@ -100,11 +101,11 @@ input:focus {
 
 /* logo */
 .logo {
-    /*margin: 60px 0 60px 0;*/
+    /*margin: 60px 0 40px 0;*/
 }
 
 .logo-img {
-    margin: 60px 0 60px 0;
+    margin: 60px 0 40px 0;
 }
 
 /* nav */
@@ -142,11 +143,10 @@ input:focus {
     width: 28%;
 }
 .courseChevaux {
-    position: absolute;
-    z-index: 1000;
-    /*margin: 0 0 0 80px;*/
-    width: auto;
-
+    position: relative;
+    z-index: 100;
+    margin: 40px 0 40px 0;
+    max-width: 1300px;
 }
 /*------------------------------------*\
 	TYPOGRAPHY

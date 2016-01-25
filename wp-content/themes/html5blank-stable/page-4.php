@@ -12,8 +12,6 @@
             pour faire ses paris mensuels au Quinté+ de Vincennes.</p>
     </section>
 </main>
-<!--</div>-->
-
 
 <!-- Cavalier 16 -Visuel des chevaux en course-->
 <div class="img">
@@ -23,8 +21,6 @@
 </div>
 <!-- /Cavalier 16 -Visuel des chevaux en course-->
 
-
-<!--<div class="wrapper">-->
 <main role="main">
     <section>
         <h2>Comment faire pour l’aider ?</h2>
