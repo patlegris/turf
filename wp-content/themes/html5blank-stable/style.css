@@ -143,17 +143,17 @@ input:focus {
 	TYPOGRAPHY
 \*------------------------------------*/
 h1 {
-    font: 700 35px/1 'Roboto Slab', Roboto, sans-serif;
+    font: 700 35px/1 'Roboto Slab', Roboto, serif;
     line-height: 40px;
 }
 
 h2 {
-    font: 700 30px/1 'Roboto Slab', Roboto, sans-serif;
+    font: 700 30px/1 'Roboto Slab', Roboto, serif;
     line-height: 35px;
 }
 
 h3 {
-    font: 700 20px/1 'Roboto Slab', Roboto, sans-serif;
+    font: 700 20px/1 'Roboto Slab', Roboto, serif;
     color: #7a0c32;
 }
 

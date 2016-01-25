@@ -11,8 +11,7 @@
     <link href="<?php echo get_template_directory_uri(); ?>img/icons/touch.png" rel="apple-touch-icon-precomposed">
 
     <!--Google Fonts CDN   -->
-    <link href='https://fonts.googleapis.com/css?family=Tangerine|Droid+Sans:400,700|Roboto+Slab:400,700'
-          rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Droid+Sans:400,700' rel='stylesheet' type='text/css'>
     <style>
         body {
             font-family: 'Tangerine', serif;
