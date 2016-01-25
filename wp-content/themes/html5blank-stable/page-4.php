@@ -8,15 +8,27 @@
         aux courses tous les premiers jeudis</br>
         de chaque mois !</h2>
 
-        Mais comme il ne s'y connait pas trop il a besoin de VOUS
-        pour faire ses paris mensuels au Quinté+ de Vincennes.
+        <p>Mais comme il ne s'y connait pas trop il a besoin de VOUS</br>
+        pour faire ses paris mensuels au Quinté+ de Vincennes.</p>
+
+<!--Visuel des chevaux en course-->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
-        Comment faire pour l’aider ?
+<!--Visuel des chevaux en course-->
 
-        Rien de plus simple ! Même si vous êtes totalement ignorant sur la
-        chose comme Oscar, voici comment vous pouvez l’aider :
+        <h2>Comment faire pour l’aider ?</h2>
+
+        <p>Rien de plus simple ! Même si vous êtes totalement ignorant sur la
+        chose comme Oscar, voici comment vous pouvez l’aider :</p>
 
         1
 

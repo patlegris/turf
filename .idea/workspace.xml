@@ -2,9 +2,94 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b0a5784-f521-4612-a4aa-f183c3b26f82" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/languages/plugins/ewww-image-optimizer-fr_FR.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/languages/plugins/ewww-image-optimizer-fr_FR.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/aux-optimize.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/bulk.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/common.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/cwebp-fbsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/cwebp-fbsd64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/cwebp-linux6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/cwebp-linux664" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/cwebp-linux8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/cwebp-linux864" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/cwebp-mac7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/cwebp-mac8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/cwebp-mac9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/cwebp-sol" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/cwebp.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/eio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/ewww-image-optimizer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/flag-integration.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/gifsicle-fbsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/gifsicle-linux" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/gifsicle-mac" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/gifsicle-sol" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/gifsicle.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/image-editor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/iocli.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/jpegtran-fbsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/jpegtran-fbsd64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/jpegtran-linux" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/jpegtran-linux64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/jpegtran-mac" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/jpegtran-sol" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/jpegtran.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/jquery-ui-1.10.1.custom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/languages/ewww-image-optimizer-fr_BE.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/languages/ewww-image-optimizer-fr_BE.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/languages/ewww-image-optimizer-he_IL.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/languages/ewww-image-optimizer-he_IL.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/languages/ewww-image-optimizer-id_ID.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/languages/ewww-image-optimizer-id_ID.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/languages/ewww-image-optimizer-it_IT.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/languages/ewww-image-optimizer-it_IT.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/languages/ewww-image-optimizer-nl_NL.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/languages/ewww-image-optimizer-nl_NL.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/languages/ewww-image-optimizer-pt_BR.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/languages/ewww-image-optimizer-pt_BR.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/languages/ewww-image-optimizer-ru_RU.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/languages/ewww-image-optimizer-ru_RU.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/languages/ewww-image-optimizer-sv_SE.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/languages/ewww-image-optimizer-sv_SE.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/languages/ewww-image-optimizer-tr_TR.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/languages/ewww-image-optimizer-tr_TR.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/languages/ewww-image-optimizer-uk.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/languages/ewww-image-optimizer-uk.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/languages/ewww-image-optimizer-vi.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/languages/ewww-image-optimizer-vi.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/languages/ewww-image-optimizer.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/load_webp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/mwebp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/nextcellent-integration.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/nextgen-integration.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/nextgen2-integration.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/optipng-fbsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/optipng-linux" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/optipng-mac" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/optipng-sol" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/optipng.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/pngquant-fbsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/pngquant-linux" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/pngquant-mac" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/pngquant-sol" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/pngquant.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/sample.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/smashing-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/test.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/test.png.webp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/webp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/ewww-image-optimizer/wpspin.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/html5blank-stable/img/Turf_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/Turf_logo-120x20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/Turf_logo-120x20@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/Turf_logo-150x62.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/Turf_logo-250x42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/Turf_logo.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/html5blank-stable/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/html5blank-stable/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/html5blank-stable/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/html5blank-stable/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/html5blank-stable/page-4.php" afterPath="$PROJECT_DIR$/wp-content/themes/html5blank-stable/page-4.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/html5blank-stable/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/html5blank-stable/style.css" />
     </list>
@@ -49,21 +134,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page-4.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="page-4.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/html5blank-stable/page-4.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.5">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.52313167">
+              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/html5blank-stable/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.9">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/html5blank-stable/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7224199">
-              <caret line="59" column="0" selection-start-line="58" selection-start-column="16" selection-end-line="59" selection-end-column="0" />
+            <state vertical-scroll-proportion="-19.0">
+              <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="54" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -83,12 +178,12 @@
         <option value="$PROJECT_DIR$/wp-content/plugins/acf-cf7.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/html5blank-stable/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/html5blank-stable/index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/html5blank-stable/footer.php" />
         <option value="$PROJECT_DIR$/wp-config.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/html5blank-stable/page.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/html5blank-stable/page-4.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/html5blank-stable/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/html5blank-stable/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/html5blank-stable/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/html5blank-stable/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/html5blank-stable/page-4.php" />
       </list>
     </option>
   </component>
@@ -500,26 +595,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/html5blank-stable/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7">
-          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/html5blank-stable/page.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.2">
           <caret line="6" column="33" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/html5blank-stable/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.661017">
-          <caret line="104" column="1" selection-start-line="104" selection-start-column="1" selection-end-line="104" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -532,18 +611,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/html5blank-stable/page-4.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/html5blank-stable/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.5">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state vertical-scroll-proportion="-11.9">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/html5blank-stable/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7224199">
-          <caret line="59" column="0" selection-start-line="58" selection-start-column="16" selection-end-line="59" selection-end-column="0" />
+        <state vertical-scroll-proportion="-19.0">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="54" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/html5blank-stable/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.661017">
+          <caret line="104" column="1" selection-start-line="104" selection-start-column="1" selection-end-line="104" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/html5blank-stable/page-4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52313167">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
           <folding />
         </state>
       </provider>

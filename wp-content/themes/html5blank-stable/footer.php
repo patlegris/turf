@@ -1,12 +1,15 @@
 			<!-- footer -->
 			<footer class="footer" role="contentinfo">
+				<!-- logo -->
+				<div class="logo">
+					<a href="<?php echo home_url(); ?>">
+						<!--svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
+						<img src="<?php echo home_url(); ?>/wp-content/uploads/Lachez_les_chevaux.png" alt="Logo" class="logo-img">
+					</a>
+				</div>
+				<!-- /logo -->
 
-				<!-- copyright -->
-<!--				<p class="copyright">-->
-<!--					&copy; --><?php //echo date('Y'); ?><!-- Copyright --><?php //bloginfo('name'); ?><!--. --><?php //_e('Powered by', 'html5blank'); ?>
-<!--					<a href="//wordpress.org" title="WordPress">WordPress</a> &amp; <a href="//html5blank.com" title="HTML5 Blank">HTML5 Blank</a>.-->
-<!--				</p>-->
-				<!-- /copyright -->
+
 
 			</footer>
 			<!-- /footer -->
