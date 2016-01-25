@@ -87,7 +87,7 @@ input:focus {
 
 /* wrapper */
 .wrapper {
-    max-width: 960px;
+    max-width: 830px;
     width: 95%;
     margin: 0 auto;
     position: relative;
@@ -110,8 +110,15 @@ input:focus {
 }
 
 /* nav */
-.nav {
+.nav menu ul li a {
+    color: #737373;
+}
 
+.nav {
+    font: 700 24px/1 'Roboto Slab', Roboto, sans-serif;
+    line-height: 50px;
+    text-align: right;
+    float: right;
 }
 
 /* sidebar */
@@ -139,19 +146,21 @@ h1 {
     font: 700 35px/1 'Roboto Slab', Roboto, sans-serif;
     line-height: 40px;
 }
+
 h2 {
-    font: 400 30px/1 'Roboto Slab', Roboto, sans-serif;
+    font: 700 30px/1 'Roboto Slab', Roboto, sans-serif;
     line-height: 35px;
 }
 
 h3 {
-    font: 300 20px/1 'Droid Sans', Droid, sans-serif;
-
+    font: 700 20px/1 'Roboto Slab', Roboto, sans-serif;
+    color: #7a0c32;
 }
 
 h4 {
 
 }
+
 
 @font-face {
     font-family: 'Font-Name';

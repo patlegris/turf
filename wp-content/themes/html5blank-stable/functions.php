@@ -347,7 +347,8 @@ add_action('get_header', 'enable_threaded_comments'); // Enable Threaded Comment
 add_action('wp_enqueue_scripts', 'html5blank_styles'); // Add Theme Stylesheet
 add_action('init', 'register_html5_menu'); // Add HTML5 Blank Menu
 //add_action('init', 'create_post_type_html5'); // Add our HTML5 Blank Custom Post Type
-add_action('init', 'create_post_type_pronostic'); // Add our HTML5 Blank Custom Post Type
+add_action('init', 'create_post_type_pronostic'); // Add pronostic Custom Post Type
+add_action('init', 'create_post_type_resultat'); // Add resultat Custom Post Type
 add_action('widgets_init', 'my_remove_recent_comments_style'); // Remove inline Recent Comment Styles from wp_head()
 add_action('init', 'html5wp_pagination'); // Add our HTML5 Pagination
 
@@ -438,12 +439,12 @@ add_shortcode('html5_shortcode_demo_2', 'html5_shortcode_demo_2'); // Place [htm
 // Create second Custom Post type : pronostics
 function create_post_type_pronostic ()
 {
-    register_taxonomy_for_object_type('category', 'pronostics'); // Register Taxonomies for Category
-    register_taxonomy_for_object_type('post_tag', 'pronostics');
+    register_taxonomy_for_object_type('category', 'pronostic'); // Register Taxonomies for Category and Tags
+    register_taxonomy_for_object_type('post_tag', 'pronostic');
     register_post_type('pronostic', // Register Custom Post Type
         array(
             'labels' => array(
-                'name' => __('Pronostic', 'pronostic'), // Rename these to suit
+                'name' => __('Pronostics', 'pronostic'), // Rename these to suit
                 'singular_name' => __('Course', 'pronostic'),
                 'add_new' => __('Ajouter', 'pronostic'),
                 'add_new_item' => __('Ajouter un nouveau pronostic pour la course numéro :', 'pronostic'),
@@ -470,11 +471,54 @@ function create_post_type_pronostic ()
             'taxonomies' => array(
 //                'post_tag',
                 'category'
-            ) // Add Category support
+            ) // Add Category and tag support
         ));
 }
 
-register_taxonomy('cheval', 'pronostic', array('hierarchical' => false, 'label' => 'Chevaux', 'query_var' => true, 'type' => 'date', 'rewrite' => true));
+register_taxonomy('cheval', 'pronostic', array('hierarchical' => true, 'label' => 'Chevaux', 'query_var' => true, 'rewrite' => true));
+
+// Create second Custom Post type : resultat
+function create_post_type_resultat ()
+{
+    register_taxonomy_for_object_type('category', 'resultat'); // Register Taxonomies for Category and Tags
+    register_taxonomy_for_object_type('post_tag', 'resultat');
+    register_post_type('resultat', // Register Custom Post Type
+        array(
+            'labels' => array(
+                'name' => __('Résultats', 'resultat'), // Rename these to suit
+                'singular_name' => __('Course', 'resultat'),
+                'add_new' => __('Ajouter', 'resultat'),
+                'add_new_item' => __('Ajouter un nouveau résultat pour la course numéro :', 'resultat'),
+                'edit' => __('Editer', 'resultat'),
+                'edit_item' => __('Editer les résultats de la course numéro : ', 'resultat'),
+                'new_item' => __('New pronostic', 'resultat'),
+                'view' => __('View resultat', 'resultat'),
+                'view_item' => __('View resultat', 'resultat'),
+                'search_items' => __('Search resultat', 'resultat'),
+                'not_found' => __('resultat not found', 'resultat'),
+                'not_found_in_trash' => __('No resultat found in Trash', 'resultat')
+            ),
+            'public' => true,
+            'hierarchical' => false, // Allows your posts to behave like Hierarchy Pages
+            'has_archive' => true,
+            'exclude_from_search' => false,
+            'supports' => array(
+                'title',
+                'editor',
+                'date',
+                'thumbnail',
+            ),
+            'can_export' => true, // Allows export in Tools > Export
+//            'taxonomies' => array(
+////                'post_tag',
+//                'category'
+            ) // Add Category and tag support
+        );
+}
+
+//register_taxonomy('category', 'resultat', array('hierarchical' => true, 'label' => 'Catégorie', 'query_var' => true, 'rewrite' => true));
+register_taxonomy('cheval', 'resultat', array('hierarchical' => true, 'label' => 'Chevaux', 'query_var' => true, 'rewrite' => true));
+register_taxonomy('course', 'resultat', array('hierarchical' => true, 'label' => 'Catégorie de course', 'query_var' => true, 'rewrite' => true));
 
 //$position_pronostic = 1;
 //if ($position_pronostic > 6) {

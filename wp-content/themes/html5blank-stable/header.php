@@ -16,7 +16,7 @@
     <style>
         body {
             font-family: 'Tangerine', serif;
-            font-size: 16px;
+            font-size: 20px;
         }
     </style>
     <!--End Google Fonts CDN   -->
