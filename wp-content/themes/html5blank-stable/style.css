@@ -86,12 +86,11 @@ input:focus {
 
 /* wrapper */
 .wrapper {
-    max-width: 830px;
+    max-width: 840px;
     width: 95%;
     margin: 0 auto;
     position: relative;
     background-color: white;
-
 }
 
 /* header */
@@ -137,7 +136,11 @@ input:focus {
 /*------------------------------------*\
     IMAGES
 \*------------------------------------*/
-
+.cavalier16 {
+    float: left;
+    max-width: 28%;
+    width: 28%;
+}
 /*------------------------------------*\
 	TYPOGRAPHY
 \*------------------------------------*/
@@ -180,7 +183,6 @@ h4 {
     .wrapper {
         padding: 0 20px 0 20px;
     }
-
 }
 
 @media only screen and (min-width: 480px) {
