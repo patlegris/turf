@@ -31,27 +31,17 @@
         <!--Encadré-->
         <div class="CadreHome">
             <ul>
-                <li><a class="enumRed">1</a><p>Repérez les chevaux qui vous plaisent le plus (selon leur côte, selon les<br>
-                        pronostics, selon l’originalité de leur nom…). Cette semaine nous avons une<br>
-                        préférence pour le 14 “Va Et Vient” et le 3 “Uvevering Du Gite”, et vous ?</p></li>
-                <li><a class="enumRed">2</a></li>
-                <li><a class="enumRed">3</a></li>
-
+                <li><a class="enumRed">1</a>
+                </li><a class="Courant">Repérez les chevaux qui vous plaisent le plus (selon leur côte, selon les
+                    pronostics, selon l’originalité de leur nom…). Cette semaine nous avons une
+                    préférence pour le 14 “Va Et Vient” et le 3 “Uvevering Du Gite”, et vous ?</a>
+                <li><a class="enumRed">2</a></li><a class="Courant">Indiquez-nous en commentaire votre sélection.<br>
+                    Oscar choisira les chevaux les plus populaires.</a>
+                <li><a class="enumRed">3</a></li><a class="Courant">Partagez ce post afin que vos proches nous aident eux aussi à gagner !
+                    Dans un an, nous organiserons alors une super soirée avec tous ceux qui
+                    nous auront aidé dans nos paris PMU, avec les gains remportés sur les 12
+                    courses.</a>
             </ul>
-
-            <p>Repérez les chevaux qui vous plaisent le plus (selon leur côte, selon les<br>
-                pronostics, selon l’originalité de leur nom…). Cette semaine nous avons une<br>
-                préférence pour le 14 “Va Et Vient” et le 3 “Uvevering Du Gite”, et vous ?</p>
-
-            2
-            <p>Indiquez-nous en commentaire votre sélection.<br>
-                Oscar choisira les chevaux les plus populaires.</p>
-
-            3
-            <p>Partagez ce post afin que vos proches nous aident eux aussi à gagner !<br>
-                Dans un an, nous organiserons alors une super soirée avec tous ceux qui<br>
-                nous auront aidé dans nos paris PMU, avec les gains remportés sur les 12<br>
-                courses.</p>
         </div>
         <!--Encadré-->
     </section>
