@@ -10,19 +10,23 @@
 
         <p>Mais comme il ne s'y connait pas trop il a besoin de VOUS</br>
             pour faire ses paris mensuels au Quinté+ de Vincennes.</p>
-
-        <!--Visuel des chevaux en course-->
-        <!-- Cavalier 16 -->
-        <div class="img">
-            <a href="<?php echo home_url(); ?>">
-                <img src="<?php echo home_url(); ?>/wp-content/uploads/Course_chevaux.svg" class="style-svg" alt="Cavalier">
-            </a>
-        </div>
-        <!-- /Cavalier 16 -->
-
-        <!--Visuel des chevaux en course-->
+    </section>
+</main>
+<!--</div>-->
 
 
+<!-- Cavalier 16 -Visuel des chevaux en course-->
+<div class="img">
+    <a>
+        <img src="<?php echo home_url(); ?>/wp-content/uploads/Course_chevaux.png" class="courseChevaux" alt="Cavalier">
+    </a>
+</div>
+<!-- /Cavalier 16 -Visuel des chevaux en course-->
+
+
+<!--<div class="wrapper">-->
+<main role="main">
+    <section>
         <h2>Comment faire pour l’aider ?</h2>
 
         <p>Rien de plus simple ! Même si vous êtes totalement ignorant sur la<br>
@@ -49,7 +53,7 @@
     </section>
     <!-- /section -->
 </main>
-
-<?php get_sidebar(); ?>
+</div
+<?php //get_sidebar(); ?>
 
 <?php get_footer(); ?>

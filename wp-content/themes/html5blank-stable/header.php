@@ -40,7 +40,7 @@
 
 <!-- Cavalier 16 -->
 <div class="img">
-    <a href="<?php echo home_url(); ?>">
+    <a>
         <img src="<?php echo home_url(); ?>/wp-content/uploads/Cavalier_16.png" class="cavalier16"
              alt="Cavalier">
     </a>
@@ -54,7 +54,7 @@
     <header class="header" role="banner">
         <!-- logo -->
         <div class="logo">
-            <a href="<?php echo home_url(); ?>">
+            <a>
                 <img src="<?php echo home_url(); ?>/wp-content/uploads/Turf_logo.png" alt="Logo" class="logo-img">
             </a>
         </div>

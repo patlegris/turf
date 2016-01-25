@@ -141,6 +141,13 @@ input:focus {
     max-width: 28%;
     width: 28%;
 }
+.courseChevaux {
+    position: absolute;
+    z-index: 1000;
+    /*margin: 0 0 0 80px;*/
+    width: auto;
+
+}
 /*------------------------------------*\
 	TYPOGRAPHY
 \*------------------------------------*/
